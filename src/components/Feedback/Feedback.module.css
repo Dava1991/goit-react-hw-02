@@ -1,0 +1,7 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    font-size: 1.5em;
+    font-weight: 500;
+  }
